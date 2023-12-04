@@ -2,6 +2,7 @@
 !aabusha3_Assignment_7.ipynb
 *.csv
 !Dataset.csv
+*.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
